@@ -1,0 +1,21 @@
+Имя функции: flat_generator
+Дата запуска функции: 2024-06-14
+Время запуска функции: 12:47:48.948348
+args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],)
+{}
+Результат: <generator object flat_generator at 0x000002094E719CB0>
+
+Имя функции: flat_generator
+Дата запуска функции: 2024-06-14
+Время запуска функции: 12:47:48.949345
+args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],)
+{}
+Результат: <generator object flat_generator at 0x000002094E719CB0>
+
+Имя функции: flat_generator
+Дата запуска функции: 2024-06-14
+Время запуска функции: 12:47:48.949345
+args=([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],)
+{}
+Результат: <generator object flat_generator at 0x000002094E719CB0>
+
